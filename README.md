@@ -19,6 +19,20 @@ MeloNewz is a browser extension that transforms your news reading experience on 
 5. **View Transformed News:**
    - Click on the "View" button to explore the transformed news in a separate, user-friendly interface.
 
+## Screenshots
+
+![Screenshot 1](./screenshots/switch-off.png)
+*Caption: Install extension.*
+
+![Screenshot 2](./screenshots/switch-on.png)
+*Caption: Switch on extension.*
+
+![Screenshot 2](./screenshots/inject.png)
+*Caption: Transformed news article on ndtv.com.*
+
+![Screenshot 2](./screenshots/view.png)
+*Caption: View sharable news at separate ui*
+
 ## Technology Stack
 
 MeloNewz leverages a robust technology stack to deliver its innovative features:
